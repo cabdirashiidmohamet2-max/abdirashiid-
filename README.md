@@ -30,7 +30,7 @@ My goal is to become a professional Full-Stack Software Developer by continuousl
 
 **Abdirashiid Mohamed**
 
-GitHub: https://github.com/abdirashiid
+GitHub: https://github.com/abdirashiid-
 
 ---
 
